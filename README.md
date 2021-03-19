@@ -1,1 +1,2 @@
 # wangkuowink.github.io
+welcome
